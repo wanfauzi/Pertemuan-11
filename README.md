@@ -31,13 +31,13 @@ Project ini merupakan aplikasi Sistem Informasi Perpustakaan berbasis Laravel ya
 
 ### Dashboard
 
-![Dashboard](images/8. Tampilan.png)
-![Dashboard](images/9. Tampilan_Menu_Utama.png)
+![Dashboard](images/8-Tampilan.png)
+![Dashboard](images/9-Tampilan_Menu_Utama.png)
 
 ### Buku Card
 
-![Buku Card](images/12. Tampilan_daftarbuku.png)
+![Buku Card](images/12-Tampilan_daftarbuku.png)
 
 ### Search & Filter Buku
 
-![Search Buku](images/13. Tampilan_search.png)
+![Search Buku](images/13-Tampilan_search.png)
